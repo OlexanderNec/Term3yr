@@ -1,0 +1,16 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Известные сведения}{2}{section.1}%
+\contentsline {section}{\numberline {2}Некоторые частные случаи}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}p-нормы в пространствах n-мерных векторов}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Ромбические нормы}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Прямоугольные нормы}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Оценка на плоскости}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Эллиптические нормы}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Произвольная и евклидова норма}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Исследование сфер}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Применение дифференциальной геометрии}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Две произвольные нормы}{10}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Общий случай}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Анализ нормали}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Пространство тригонометрических многочленов}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Заключение}{14}{section.5}%
