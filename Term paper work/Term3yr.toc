@@ -1,7 +1,7 @@
 \babel@toc {russian}{}
 \contentsline {section}{\numberline {1}Известные сведения}{2}{section.1}%
 \contentsline {section}{\numberline {2}Некоторые частные случаи}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}p-нормы в пространствах n-мерных векторов}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1}\boldmath $p$-нормы в пространствах \boldmath $n$-мерных векторов}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Ромбические нормы}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Прямоугольные нормы}{6}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Оценка на плоскости}{7}{section.3}%

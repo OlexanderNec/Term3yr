@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.3.9)  30 SEP 2022 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2022.3.9)  18 OCT 2022 02:39
 entering extended mode
 **./Term3yr.tex
 (Term3yr.tex
@@ -304,97 +304,12 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@dimlist=\toks19
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
-)
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2021/04/20 v2.17j AMS math features
-\@mathmargin=\skip49
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
-For additional information on amsmath, use the `?' option.
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
-\ex@=\dimen148
-))
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
-)
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count195
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count196
-\leftroot@=\count197
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count198
-\DOTSCASE@=\count199
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box50
-\strutbox@=\box51
-\big@size=\dimen150
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count266
-\c@MaxMatrixCols=\count267
-\dotsspace@=\muskip16
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
-\tag@help=\toks21
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
-\andhelp@=\toks22
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
-\@envbody=\toks23
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
-)
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
-Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count273
-\calc@Bcount=\count274
-\calc@Adimen=\dimen157
-\calc@Bdimen=\dimen158
-\calc@Askip=\skip52
-\calc@Bskip=\skip53
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count275
-\calc@Cskip=\skip54
-)
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
-Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
-)
-\g_MT_multlinerow_int=\count276
-\l_MT_multwidth_dim=\dimen159
-\origjot=\skip55
-\l_MT_shortvdotswithinadjustabove_dim=\dimen160
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen161
-\l_MT_above_intertext_sep=\dimen162
-\l_MT_below_intertext_sep=\dimen163
-\l_MT_above_shortintertext_sep=\dimen164
-\l_MT_below_shortintertext_sep=\dimen165
-\xmathstrut@box=\box52
-\xmathstrut@dim=\dimen166
-) (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
@@ -412,14 +327,9 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
 )
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
-ision.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
 sty
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
@@ -427,15 +337,15 @@ sty
 y
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks25
-\pgfutil@tempdima=\dimen169
-\pgfutil@tempdimb=\dimen170
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common-lists.tex))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
-\pgfutil@abb=\box53
+\pgfutil@abb=\box50
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
@@ -454,33 +364,33 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks26
-\pgfkeys@temptoks=\toks27
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
-\pgfkeys@tmptoks=\toks28
+\pgfkeys@tmptoks=\toks23
 ))
-\pgf@x=\dimen171
-\pgf@y=\dimen172
-\pgf@xa=\dimen173
-\pgf@ya=\dimen174
-\pgf@xb=\dimen175
-\pgf@yb=\dimen176
-\pgf@xc=\dimen177
-\pgf@yc=\dimen178
-\pgf@xd=\dimen179
-\pgf@yd=\dimen180
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count277
-\c@pgf@countb=\count278
-\c@pgf@countc=\count279
-\c@pgf@countd=\count280
-\t@pgf@toka=\toks29
-\t@pgf@tokb=\toks30
-\t@pgf@tokc=\toks31
-\pgf@sys@id@count=\count281
+\c@pgf@counta=\count195
+\c@pgf@countb=\count196
+\c@pgf@countc=\count197
+\c@pgf@countd=\count198
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count199
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -499,8 +409,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count282
-\pgfsyssoftpath@bigbuffer@items=\count283
+\pgfsyssoftpath@smallbuffer@items=\count266
+\pgfsyssoftpath@bigbuffer@items=\count267
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -535,12 +445,12 @@ code.tex
 code.tex)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen181
-\pgfmath@count=\count284
-\pgfmath@box=\box54
-\pgfmath@toks=\toks32
-\pgfmath@stack@operand=\toks33
-\pgfmath@stack@operation=\toks34
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count268
+\pgfmath@box=\box51
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex
@@ -562,59 +472,59 @@ ions.misc.code.tex)
 ions.integerarithmetics.code.tex)))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count285
+\c@pgfmathroundto@lastzeros=\count269
 ))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen182
-\pgf@picmaxx=\dimen183
-\pgf@picminy=\dimen184
-\pgf@picmaxy=\dimen185
-\pgf@pathminx=\dimen186
-\pgf@pathmaxx=\dimen187
-\pgf@pathminy=\dimen188
-\pgf@pathmaxy=\dimen189
-\pgf@xx=\dimen190
-\pgf@xy=\dimen191
-\pgf@yx=\dimen192
-\pgf@yy=\dimen193
-\pgf@zx=\dimen194
-\pgf@zy=\dimen195
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen196
-\pgf@path@lasty=\dimen197
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen198
-\pgf@shorten@start@additional=\dimen199
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count286
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count270
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen256
+\pgflinewidth=\dimen181
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen257
-\pgf@pt@y=\dimen258
-\pgf@pt@temp=\dimen259
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
@@ -631,14 +541,14 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen260
+\pgfarrowsep=\dimen185
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen261
-\pgf@sys@shading@range@num=\count287
-\pgf@shadingcount=\count288
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count271
+\pgf@shadingcount=\count272
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -647,7 +557,7 @@ File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box58
+\pgfexternal@startupbox=\box55
 ))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
@@ -668,7 +578,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box59
+\pgfnodeparttextbox=\box56
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
@@ -677,8 +587,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen262
-\pgf@nodesepend=\dimen263
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
@@ -699,10 +609,10 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex)
-\pgffor@iter=\dimen264
-\pgffor@skip=\dimen265
-\pgffor@stack=\toks35
-\pgffor@toks=\toks36
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
 ))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -711,34 +621,34 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count289
-\pgfplotmarksize=\dimen266
+\pgf@plot@mark@count=\count273
+\pgfplotmarksize=\dimen191
 )
-\tikz@lastx=\dimen267
-\tikz@lasty=\dimen268
-\tikz@lastxsaved=\dimen269
-\tikz@lastysaved=\dimen270
-\tikz@lastmovetox=\dimen271
-\tikz@lastmovetoy=\dimen272
-\tikzleveldistance=\dimen273
-\tikzsiblingdistance=\dimen274
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count290
-\tikznumberofchildren=\count291
-\tikznumberofcurrentchild=\count292
-\tikz@fig@count=\count293
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count274
+\tikznumberofchildren=\count275
+\tikznumberofcurrentchild=\count276
+\tikz@fig@count=\count277
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count294
-\pgfmatrixcurrentcolumn=\count295
-\pgf@matrix@numberofcolumns=\count296
+\pgfmatrixcurrentrow=\count278
+\pgfmatrixcurrentcolumn=\count279
+\pgf@matrix@numberofcolumns=\count280
 )
-\tikz@expandcount=\count297
+\tikz@expandcount=\count281
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
@@ -748,12 +658,12 @@ File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 e.tex
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
 .code.tex
-\t@pgfplots@toka=\toks37
-\t@pgfplots@tokb=\toks38
-\t@pgfplots@tokc=\toks39
-\pgfplots@tmpa=\dimen275
-\c@pgfplots@coordindex=\count298
-\c@pgfplots@scanlineindex=\count299
+\t@pgfplots@toka=\toks32
+\t@pgfplots@tokb=\toks33
+\t@pgfplots@tokc=\toks34
+\pgfplots@tmpa=\dimen256
+\c@pgfplots@coordindex=\count282
+\c@pgfplots@scanlineindex=\count283
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
 sysgeneric.code.tex))
@@ -771,14 +681,14 @@ e\pgfplotsliststructure.code.tex)
 e\pgfplotsliststructureext.code.tex)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
 e\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count300
+\c@pgfplotsarray@tmp=\count284
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
 e\pgfplotsmatrix.code.tex)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
 plotstableshared.code.tex
-\c@pgfplotstable@counta=\count301
-\t@pgfplotstable@a=\toks40
+\c@pgfplotstable@counta=\count285
+\t@pgfplotstable@a=\toks35
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
 e\pgfplotsdeque.code.tex)
@@ -790,7 +700,7 @@ sbinary.data.code.tex))
 sutil.verb.code.tex)
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
 arypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count302
+\c@pgfplotslibrarysurf@no=\count286
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
 rypgfplots.surfshading.pgfsys-pdftex.def)))
@@ -822,16 +732,16 @@ hs.code.tex)
 z/libraries\tikzlibrarydecorations.code.tex
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 decorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen276
-\pgfdecoratedremainingdistance=\dimen277
-\pgfdecoratedinputsegmentcompleteddistance=\dimen278
-\pgfdecoratedinputsegmentremainingdistance=\dimen279
-\pgf@decorate@distancetomove=\dimen280
-\pgf@decorate@repeatstate=\count303
-\pgfdecorationsegmentamplitude=\dimen281
-\pgfdecorationsegmentlength=\dimen282
+\pgfdecoratedcompleteddistance=\dimen257
+\pgfdecoratedremainingdistance=\dimen258
+\pgfdecoratedinputsegmentcompleteddistance=\dimen259
+\pgfdecoratedinputsegmentremainingdistance=\dimen260
+\pgf@decorate@distancetomove=\dimen261
+\pgf@decorate@repeatstate=\count287
+\pgfdecorationsegmentamplitude=\dimen262
+\pgfdecorationsegmentlength=\dimen263
 )
-\tikz@lib@dec@box=\box64
+\tikz@lib@dec@box=\box61
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -843,13 +753,13 @@ z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
 ions\pgflibrarydecorations.pathreplacing.code.tex))
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
 rarypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count304
-\pgfplots@xmin@reg=\dimen283
-\pgfplots@xmax@reg=\dimen284
-\pgfplots@ymin@reg=\dimen285
-\pgfplots@ymax@reg=\dimen286
-\pgfplots@zmin@reg=\dimen287
-\pgfplots@zmax@reg=\dimen288
+\pgfplots@numplots=\count288
+\pgfplots@xmin@reg=\dimen264
+\pgfplots@xmax@reg=\dimen265
+\pgfplots@ymin@reg=\dimen266
+\pgfplots@ymax@reg=\dimen267
+\pgfplots@zmin@reg=\dimen268
+\pgfplots@zmax@reg=\dimen269
 )
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibraryplotmarks.code.tex
@@ -859,6 +769,73 @@ File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 aryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks36
+\ex@=\dimen270
+))
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen271
+)
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box62
+\strutbox@=\box63
+\big@size=\dimen272
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count294
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip16
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks37
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks38
+\eqnshift@=\dimen273
+\alignsep@=\dimen274
+\tagshift@=\dimen275
+\tagwidth@=\dimen276
+\totwidth@=\dimen277
+\lineht@=\dimen278
+\@envbody=\toks39
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks40
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -866,8 +843,37 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen279
+\calc@Bdimen=\dimen280
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count303
+\calc@Cskip=\skip54
 )
-(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count304
+\l_MT_multwidth_dim=\dimen281
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen282
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen283
+\l_MT_above_intertext_sep=\dimen284
+\l_MT_below_intertext_sep=\dimen285
+\l_MT_above_shortintertext_sep=\dimen286
+\l_MT_below_shortintertext_sep=\dimen287
+\xmathstrut@box=\box64
+\xmathstrut@dim=\dimen288
+) (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
@@ -1015,27 +1021,27 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 ) (Term3yr.aux)
 \openout1 = `Term3yr.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Info: Redefining \th on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Info: Redefining \th on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1097,13 +1103,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
-your preamble.
- on input line 16.
-
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 23.
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1116,20 +1119,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count322
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
  (Term3yr.out) (Term3yr.out)
 \@outlinefile=\write4
 \openout4 = `Term3yr.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (C:\Users\sasch\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1142,51 +1145,50 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 {C:/Users/sasch/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-<pictures/p_spheres.png, id=105, 416.15475pt x 422.7795pt>
+<pictures/p_spheres.png, id=107, 416.15475pt x 422.7795pt>
 File: pictures/p_spheres.png Graphic file (type png)
 <use pictures/p_spheres.png>
-Package pdftex.def Info: pictures/p_spheres.png  used on input line 54.
+Package pdftex.def Info: pictures/p_spheres.png  used on input line 63.
 (pdftex.def)             Requested size: 332.92426pt x 338.22404pt.
-<pictures//p_norms.png, id=107, 387.24675pt x 371.58826pt>
+<pictures//p_norms.png, id=109, 387.24675pt x 371.58826pt>
 File: pictures//p_norms.png Graphic file (type png)
 <use pictures//p_norms.png>
-Package pdftex.def Info: pictures//p_norms.png  used on input line 64.
+Package pdftex.def Info: pictures//p_norms.png  used on input line 73.
 (pdftex.def)             Requested size: 309.7978pt x 297.271pt.
  [3 <./pictures/p_spheres.png>]
-<pictures//rhombus.png, id=117, 659.46375pt x 335.45325pt>
+<pictures//rhombus.png, id=119, 659.46375pt x 335.45325pt>
 File: pictures//rhombus.png Graphic file (type png)
 <use pictures//rhombus.png>
-Package pdftex.def Info: pictures//rhombus.png  used on input line 94.
-(pdftex.def)             Requested size: 296.75594pt x 150.95255pt.
+Package pdftex.def Info: pictures//rhombus.png  used on input line 103.
+(pdftex.def)             Requested size: 329.73106pt x 167.7262pt.
  [4 <./pictures//p_norms.png>] [5 <./pictures//rhombus.png>] [6]
-<pictures//ellipse.png, id=133, 575.751pt x 422.17725pt>
+<pictures//ellipse.png, id=135, 575.751pt x 422.17725pt>
 File: pictures//ellipse.png Graphic file (type png)
 <use pictures//ellipse.png>
-Package pdftex.def Info: pictures//ellipse.png  used on input line 160.
-(pdftex.def)             Requested size: 316.66403pt x 232.1982pt.
- [7 <./pictures//ellipse.png>]
-<pictures/spheres.png, id=143, 690.1785pt x 362.5545pt>
+Package pdftex.def Info: pictures//ellipse.png  used on input line 169.
+(pdftex.def)             Requested size: 345.45326pt x 253.30829pt.
+ [7 <./pictures//ellipse.png>] [8]
+<pictures/spheres.png, id=149, 690.1785pt x 362.5545pt>
 File: pictures/spheres.png Graphic file (type png)
 <use pictures/spheres.png>
-Package pdftex.def Info: pictures/spheres.png  used on input line 220.
-(pdftex.def)             Requested size: 276.06651pt x 145.01923pt.
- [8]
-<pictures/s1f_circle.png, id=149, 537.207pt x 482.40225pt>
+Package pdftex.def Info: pictures/spheres.png  used on input line 229.
+(pdftex.def)             Requested size: 414.11029pt x 217.53438pt.
+<pictures/s1f_circle.png, id=151, 537.207pt x 482.40225pt>
 File: pictures/s1f_circle.png Graphic file (type png)
 <use pictures/s1f_circle.png>
-Package pdftex.def Info: pictures/s1f_circle.png  used on input line 237.
-(pdftex.def)             Requested size: 295.46477pt x 265.32205pt.
+Package pdftex.def Info: pictures/s1f_circle.png  used on input line 246.
+(pdftex.def)             Requested size: 268.60284pt x 241.20053pt.
  [9 <./pictures/spheres.png>] [10 <./pictures/s1f_circle.png>] [11] [12] [13] [
 14] [15] (Term3yr.aux)
 Package rerunfilecheck Info: File `Term3yr.out' has not changed.
 (rerunfilecheck)             Checksum: 0E2D779D2C20A71F1F0A74277F3DC6BC;3515.
  ) 
 Here is how much of TeX's memory you used:
- 31784 strings out of 478864
- 731546 string characters out of 2848661
- 1135164 words of memory out of 3000000
- 49135 multiletter control sequences out of 15000+600000
- 417923 words of font info for 63 fonts, out of 8000000 for 9000
+ 32241 strings out of 478864
+ 736402 string characters out of 2848661
+ 1141422 words of memory out of 3000000
+ 49570 multiletter control sequences out of 15000+600000
+ 423449 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,103p,1254b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\sasch\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati10
@@ -1201,18 +1203,22 @@ ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/sasch/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sasch/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/sasch/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/sasch
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
-rs/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb>
-<C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r7.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy5.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/sasch/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on Term3yr.pdf (15 pages, 639825 bytes).
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/U
+sers/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr5.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy5.pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/sasch/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/sasch/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam7.pfb><C:/Users/
+sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb><C:/Users/sasch/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/s
+ymbols/msbm7.pfb>
+Output written on Term3yr.pdf (15 pages, 664578 bytes).
 PDF statistics:
- 542 PDF objects out of 1000 (max. 8388607)
+ 551 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 500000)
  163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
